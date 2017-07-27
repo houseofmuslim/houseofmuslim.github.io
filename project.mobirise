@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -97,7 +97,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -882,6 +882,31 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 House Of Muslim."
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-o",
+          "_params": {
+            "blockTitle": "",
+            "HTMLCode": "<h1><!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</h1>",
+            "paddingTop": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "",
+          "HTMLCode": "<h1><!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</h1>"
         }
       ]
     },
@@ -952,7 +977,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -977,6 +1002,31 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"pancakemaker\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">House Of Muslims</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pancakemaker\">Hotline 013-2571337</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"OTO 1\">UTAMA</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-n",
+          "_params": {
+            "blockTitle": "",
+            "HTMLCode": "<h1><!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</h1>",
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "",
+          "HTMLCode": "<h1><!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</h1>"
         },
         {
           "_tags": [
@@ -1023,7 +1073,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"billplz.com/set1\" data-toolbar=\"-mbrBtnMove\">Saya Tak Berminat COMBO</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"billplz.com/set2\" data-toolbar=\"-mbrBtnMove\">Saya Nak COMBO Dua&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"billplz.com/set3\" data-toolbar=\"-mbrBtnMove\">Saya Nak COMBO Tiga</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.billplz.com/set1#\" data-toolbar=\"-mbrBtnMove\">Saya Tak Berminat COMBO</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.billplz.com/set2#\" data-toolbar=\"-mbrBtnMove\">Saya Nak COMBO Dua&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.billplz.com/set3#\" data-toolbar=\"-mbrBtnMove\">Saya Nak COMBO Tiga</a>"
         },
         {
           "_tags": [
